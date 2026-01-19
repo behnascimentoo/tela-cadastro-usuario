@@ -1,16 +1,95 @@
-# React + Vite
+# 📋 Cadastro de Usuários – Front-end em React
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+Este projeto é uma aplicação **front-end desenvolvida em React** com fins **didáticos**, focada em praticar conceitos básicos da biblioteca, como componentes, estados e renderização de listas.
 
-Currently, two official plugins are available:
+Atualmente, o projeto **não possui integração com back-end**. Todos os dados são manipulados apenas no lado do cliente.
 
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react) uses [Babel](https://babeljs.io/) (or [oxc](https://oxc.rs) when used in [rolldown-vite](https://vite.dev/guide/rolldown)) for Fast Refresh
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
+---
 
-## React Compiler
+## 🖼️ Preview da aplicação
 
-The React Compiler is not enabled on this template because of its impact on dev & build performances. To add it, see [this documentation](https://react.dev/learn/react-compiler/installation).
+> Exemplo da interface desenvolvida:
 
-## Expanding the ESLint configuration
+![Preview da aplicação](./tela.png)
 
-If you are developing a production application, we recommend using TypeScript with type-aware lint rules enabled. Check out the [TS template](https://github.com/vitejs/vite/tree/main/packages/create-vite/template-react-ts) for information on how to integrate TypeScript and [`typescript-eslint`](https://typescript-eslint.io) in your project.
+> 💡 **Observação:** para que a imagem apareça corretamente no GitHub, coloque o arquivo da imagem  
+`(ex: screenshot.png)` na raiz do projeto ou dentro da pasta `public/`.
+
+---
+
+## 🎯 Objetivo do projeto
+
+- Praticar **React** de forma simples e visual  
+- Trabalhar com **formulários controlados**  
+- Utilizar **useState** para gerenciar dados  
+- Renderizar listas dinamicamente  
+- Criar uma interface moderna e organizada  
+
+---
+
+## 🧩 Funcionalidades
+
+- Formulário para cadastro de usuários com:
+  - Nome
+  - Idade
+  - Email
+- Exibição da lista de usuários cadastrados
+- Botão de exclusão de usuários (somente no front-end)
+- Interface estilizada e responsiva
+
+---
+
+## 🛠️ Tecnologias utilizadas
+
+- **React**
+- **JavaScript (ES6+)**
+- **CSS**
+- **Vite** ou **Create React App** (dependendo da configuração)
+
+---
+
+
+
+## 🚧 Próximos passos (ideias de evolução)
+
+Integração com API / Back-end
+
+Validação de formulários
+
+Persistência de dados (LocalStorage ou banco de dados)
+
+Edição de usuários
+
+Feedback visual (toast, alerts, loading)
+
+## 👩‍💻 Autora
+
+Projeto desenvolvido por Brenda para fins de estudo e prática em React.
+
+## ▶️ Como executar o projeto
+
+```bash
+Clone o repositório:
+
+git clone https://github.com/seu-usuario/seu-repositorio.git
+
+
+Acesse a pasta do projeto:
+
+cd seu-repositorio
+
+
+Instale as dependências:
+
+npm install
+
+
+Inicie o projeto:
+
+npm run dev
+
+
+Abra no navegador:
+
+http://localhost:5173 
+
