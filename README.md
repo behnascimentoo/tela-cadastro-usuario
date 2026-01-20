@@ -8,12 +8,10 @@ Atualmente, o projeto **não possui integração com back-end**. Todos os dados 
 
 ## 🖼️ Preview da aplicação
 
-> Exemplo da interface desenvolvida:
+> Interface desenvolvida:
 
-![Preview da aplicação](./tela.png)
+![Preview da aplicação](./public/tela.png)
 
-> 💡 **Observação:** para que a imagem apareça corretamente no GitHub, coloque o arquivo da imagem  
-`(ex: screenshot.png)` na raiz do projeto ou dentro da pasta `public/`.
 
 ---
 
