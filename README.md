@@ -42,7 +42,7 @@ Atualmente, o projeto **não possui integração com back-end**. Todos os dados 
 - **React**
 - **JavaScript (ES6+)**
 - **CSS**
-- **Vite** ou **Create React App** (dependendo da configuração)
+- **Vite**
 
 ---
 
