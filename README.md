@@ -69,27 +69,17 @@ Projeto desenvolvido por Brenda para fins de estudo e prática em React.
 ## ▶️ Como executar o projeto
 
 ```bash
-Clone o repositório:
+# Clone o repositório:
+git clone https://github.com/behnascimentoo/tela-cadastro-usuario.git
 
-git clone https://github.com/seu-usuario/seu-repositorio.git
+# Acesse a pasta do projeto:
+cd tela-cadastro-usuario
 
-
-Acesse a pasta do projeto:
-
-cd seu-repositorio
-
-
-Instale as dependências:
-
+# Instale as dependências:
 npm install
 
-
-Inicie o projeto:
-
+# Inicie o projeto:
 npm run dev
 
-
-Abra no navegador:
-
+# Abra no navegador:
 http://localhost:5173 
-
